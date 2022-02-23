@@ -5,13 +5,11 @@ This list aims to help students, professors, and IT professionals to find everyt
 
 ## Contributing
 
-Please take a quick look at the contribution guidelines first.
+If you would like to contribute a tool, platform, or resource to this list, you can contact its author [@Smithech](https://twitter.com/Smithech).
 
 ## Table of contents
 
 - [Awesome Security Training](#awesome-security-training)
-  - [Contributing](#contributing)
-  - [Table of contents](#table-of-contents)
   - [Capture The Flag - CTF](#capture-the-flag---ctf)
       - [Events](#events)
       - [Platforms for learnign](#platforms-for-learnign)
