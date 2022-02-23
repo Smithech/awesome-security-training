@@ -131,9 +131,11 @@ Reverse Engineering. The workshop consists of 3 preparation assignments and 5 se
 * [DVWA](https://dvwa.co.uk/) - PHP/MySQL web application that its main goals are to be an aid for security professionals to test their skills and tools in a legal environment and help web developers and students better understand the processes of securing web applications.
 * [OWASP Mutilliadae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security enthusiasts. 
 * [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - OWASP Security Shepherd is a web and mobile application security highly configurable training platform. Shepherd to be used by a single local user, by many in a competitive classroom environment, or by hundreds in an online hacking competition.
+* [Samurai Web Training Framework](https://github.com/SamuraiWTF/samuraiwtf) - This project is not a vulnerable application. It is a framework designed for quickly configuring training virtual machines with tools and vulnerable application targets.
 * [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - DVWA is a website that is prepared for people who are interested in web penetration and who want to have information about this subject or to be working.
 * [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons and demonstrate of common server-side application flaws.
 * [Web Security Academy](https://portswigger.net/web-security) - Free, online web security training from the creators of Burp Suite. Learn with free interactive labs and progress-tracking.
+* [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo) - A free open-source self-contained training environment for Web Application Security penetration testing.
 * [Wishtackt's Websheep](https://github.com/wishtack/wishtack-websheep) - Websheep is a willingly vulnerable set of frontend JavaScript applications and ReSTful APIs.
 * [XVWA](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 
