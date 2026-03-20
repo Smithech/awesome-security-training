@@ -1,33 +1,33 @@
-# Awesome Security Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Hacking Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-A curated list of awesome security and hacking training platforms and resources to practice safely and legally. 
+ > Training your hacking skills safely and legally.
 
-This list aims to help students, professors, and IT professionals to find everything related to hacking training in one place.
+**Awesome Hacking Training** is a curated list of security and hacking training platforms and resources to practice safely and legally. This list aims to help students, professors, and IT professionals to find everything related to hacking training in one place.
 
-## Contributing
+### Contributing
 
-If you would like to contribute a tool, platform, or resource to this list, you can contact its author [@Smithech](https://twitter.com/Smithech).
+Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](contributing.md) for more details.
 
-## Table of contents
 
-- [Awesome Security Training](#awesome-security-training)
-  - [Capture The Flag - CTF](#capture-the-flag---ctf)
-      - [Events](#events)
-      - [Platforms for learnign](#platforms-for-learnign)
-      - [Platforms to organize CTF](#platforms-to-organize-ctf)
-      - [Another resources](#another-resources)
-  - [Championships](#championships)
-  - [Cryptografy](#cryptografy)
-  - [Mobile Applications](#mobile-applications)
-  - [Operating Systems](#operating-systems)
-  - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
-  - [Reverse Engineering](#reverse-engineering)
-  - [Specific Techniques](#specific-techniques)
-      - [Return-Oriented Programming (ROP)](#return-oriented-programming-rop)
-  - [Specific Vulnerabilities](#specific-vulnerabilities)
-      - [Cross-Site Scripting - XSS](#cross-site-scripting---xss)
-  - [Web Applicactions](#web-applicactions)
-  - [Resources](#resources)
+## Contents
+
+- [Capture The Flag - CTF](#capture-the-flag---ctf)
+    - [Events](#events)
+    - [Platforms for learnign](#platforms-for-learnign)
+    - [Platforms to organize CTF](#platforms-to-organize-ctf)
+    - [Another resources](#another-resources)
+- [Championships](#championships)
+- [Cryptografy](#cryptografy)
+- [Mobile Applications](#mobile-applications)
+- [Operating Systems](#operating-systems)
+- [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
+- [Reverse Engineering](#reverse-engineering)
+- [Specific Techniques](#specific-techniques)
+    - [Return-Oriented Programming (ROP)](#return-oriented-programming-rop)
+- [Specific Vulnerabilities](#specific-vulnerabilities)
+    - [Cross-Site Scripting - XSS](#cross-site-scripting---xss)
+- [Web Applicactions](#web-applicactions)
+- [Learning Resources](#learning-resources)
 
 
 ## Capture The Flag - CTF
@@ -127,7 +127,7 @@ If you would like to contribute a tool, platform, or resource to this list, you 
 * [Wishtackt's Websheep](https://github.com/wishtack/wishtack-websheep) - Websheep is a willingly vulnerable set of frontend JavaScript applications and ReSTful APIs.
 * [XVWA](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 
-## Resources
+## Learning resources
 
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - It is the most complete and in-depth Metasploit guide available by Offensive Security, with contributions from the authors of the No Starch Press Metasploit Book. 
 
