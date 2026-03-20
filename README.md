@@ -1,4 +1,5 @@
-# Awesome Security Training 
+# Awesome Security Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
 A curated list of awesome security and hacking training platforms and resources to practice safely and legally. 
 
 This list aims to help students, professors, and IT professionals to find everything related to hacking training in one place.
@@ -17,7 +18,6 @@ If you would like to contribute a tool, platform, or resource to this list, you 
       - [Another resources](#another-resources)
   - [Championships](#championships)
   - [Cryptografy](#cryptografy)
-  - [Hardware](#hardware)
   - [Mobile Applications](#mobile-applications)
   - [Operating Systems](#operating-systems)
   - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
