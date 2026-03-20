@@ -1,4 +1,4 @@
-# Awesome Security Training
+# Awesome Security Training 
 A curated list of awesome security and hacking training platforms and resources to practice safely and legally. 
 
 This list aims to help students, professors, and IT professionals to find everything related to hacking training in one place.
@@ -49,9 +49,8 @@ If you would like to contribute a tool, platform, or resource to this list, you 
 * [FBCTF](https://github.com/facebookarchive/fbctf) - The Facebook CTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 * [Mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP. 
 
-#### Another resources
-* [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.  
-* [CTF Online Tools](https://github.com/devploit/CTF_OnlineTools) - Repository to index interesting Capture The Flag online tools.
+#### Another resources  
+* [Awesome CTF Resources](https://github.com/devploit/awesome-ctf-resources) - A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players.
 
 ## Championships
 
@@ -63,11 +62,6 @@ If you would like to contribute a tool, platform, or resource to this list, you 
 
 * [CryptoHack](https://cryptohack.org/) - Learn about modern cryptography by solving a series of interactive puzzles and challenges. Get to know the ciphers and protocols that secure the digital world by breaking them.
 * [The Cryptopals Crypto Challenges](https://cryptopals.com/) - Cryptopals built a collection of 48 exercises derived from weaknesses in real-world systems and modern cryptographic constructions. They give you enough info to learn about the underlying crypto concepts yourself. 
-
-
-## Hardware 
-
-* [Embedded Security CTF](https://microcorruption.com/login) - Given a debugger and a device, find an input that unlocks it. You'll use the debugger to reverse-engineer the code for each level. You can provide the device with input, then step through the code watching what the device does what that input.
 
 
 ## Mobile Applications
@@ -87,7 +81,6 @@ If you would like to contribute a tool, platform, or resource to this list, you 
 ## Platforms to Improve Hacking Skills
 
 * [Atenea](https://atenea.ccn-cert.cni.es/) - Atenea is a cyber security platform that presents a number of challenges which cover a wide array of topics: Cryptography and Steganography , Exploiting, Forensics , Networking and Reversing , etc.
-* [Defend the Web](https://defendtheweb.net/) - Defend the Web is an interactive security platform where you can learn and challenge your skills. Try and complete all of our 60+ hacking levels.
 * [Exploit.education](https://exploit.education/) - exploit.education provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
 * [Hack The Box](https://www.hackthebox.com/) -  HTB is a dynamically growing hacking community. Take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience.
 * [Hack The Site](https://www.hackthissite.org/) - HackThisSite is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
@@ -105,8 +98,6 @@ If you would like to contribute a tool, platform, or resource to this list, you 
 * [Crakmes](https://crackmes.one/) - This is a simple place where you can download crackmes to improve your reverse engineering skills.
 * [Nightmare](https://github.com/guyinatuxedo/nightmare) - Nightmare is an intro to binary exploitation/reverse engineering course based around ctf challenges.
 * [Reverse Engineering Challenges](https://challenges.re/) - Reverse engineering exercises that include different architectures and operating systems. 
-* [Reverse Engineering for Beginners](https://www.begin.re/) - Workshop into a web-based format to get started with
-Reverse Engineering. The workshop consists of 3 preparation assignments and 5 sessions. 
 
 
 ## Specific Techniques
@@ -119,18 +110,17 @@ Reverse Engineering. The workshop consists of 3 preparation assignments and 5 se
 
 #### Cross-Site Scripting - XSS 
 * [DomGoat](https://domgo.at/cxss/intro) - DomGoat is a DOM Security learning platform with different levels, each level targetting on different sources and sinks.
-* [XSS Labs](http://lab.awh.exdemy.com/chapter3/xss-labs/) - XSS labs is intended to be a testbed for who wish to sharpen their skills in XSS by solving more challenges and who would like to learn more about XSS.
 * [XSS Game](https://xss-game.appspot.com/) - In this training program, you will learn to find and exploit XSS bugs.
 
 
 ## Web Applicactions 
 
-* [bWAPP](http://www.itsecgames.com/) - PHP application with over 100 web vulnerabilities. It covers all major known web bugs, including all risks from the OWASP Top 10 project.
-* [DVWA](https://dvwa.co.uk/) - PHP/MySQL web application that its main goals are to be an aid for security professionals to test their skills and tools in a legal environment and help web developers and students better understand the processes of securing web applications.
+* [bWAPP](http://www.itsecgames.com/) - A PHP application with over 100 web vulnerabilities. It covers all major known web bugs, including all risks from the OWASP Top 10 project.
+* [DVWA](https://github.com/digininja/DVWA) - A PHP/MariaDB web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 * [OWASP Mutilliadae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security enthusiasts. 
 * [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - OWASP Security Shepherd is a web and mobile application security highly configurable training platform. Shepherd to be used by a single local user, by many in a competitive classroom environment, or by hundreds in an online hacking competition.
 * [Samurai Web Training Framework](https://github.com/SamuraiWTF/samuraiwtf) - This project is not a vulnerable application. It is a framework designed for quickly configuring training virtual machines with tools and vulnerable application targets.
-* [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - DVWA is a website that is prepared for people who are interested in web penetration and who want to have information about this subject or to be working.
+* [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - Website that is prepared for people who are interested in web penetration and who want to have information about this subject or to be working. It includes Command Execution, File Inclusion, File Upload, SQL and XSS. 
 * [WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons and demonstrate of common server-side application flaws.
 * [Web Security Academy](https://portswigger.net/web-security) - Free, online web security training from the creators of Burp Suite. Learn with free interactive labs and progress-tracking.
 * [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo) - A free open-source self-contained training environment for Web Application Security penetration testing.
@@ -139,6 +129,5 @@ Reverse Engineering. The workshop consists of 3 preparation assignments and 5 se
 
 ## Resources
 
-* [Introduction to Writing ARM Shellcode](https://azeria-labs.com/writing-arm-shellcode/) - With this resource you will learn how to use your knowledge to create your first simple shellcode in ARM assembly. 
 * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - It is the most complete and in-depth Metasploit guide available by Offensive Security, with contributions from the authors of the No Starch Press Metasploit Book. 
-* [Privilege Escalation Cheatsheet (Vulnhub)](https://github.com/Ignitetechnologies/Privilege-Escalation/blob/master/README.md) - This cheatsheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.
+
