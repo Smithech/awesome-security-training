@@ -4,9 +4,7 @@
 
 **Awesome Hacking Training** is a curated list of security and hacking training platforms and resources to practice safely and legally. This list aims to help students, professors, and IT professionals to find everything related to hacking training in one place.
 
-**Contributing**
-
-Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](contributing.md) for more details.
+Your **contributions** and suggestions are heartily welcome. Please check the [Contributing Guidelines](contributing.md) for more details.
 
 
 ## Contents
@@ -18,7 +16,6 @@ Your contributions and suggestions are heartily welcome. Please check the [Contr
     - [Another resources](#another-resources)
 - [Championships](#championships)
 - [Cryptografy](#cryptografy)
-- [Mobile Applications](#mobile-applications)
 - [Operating Systems](#operating-systems)
 - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
 - [Reverse Engineering](#reverse-engineering)
