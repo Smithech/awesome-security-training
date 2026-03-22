@@ -7,7 +7,6 @@
 
 - [Blue Team](#blue-team)
 - [Capture The Flag - CTF](#capture-the-flag---ctf)
-    - [Events](#events)
     - [Platforms for learning](#platforms-for-learning)
     - [Platforms to organize CTF](#platforms-to-organize-ctf)
     - [Additional resources](#additional-resources)
@@ -39,7 +38,6 @@
 - [Google CTF](https://capturetheflag.withgoogle.com/) - Google Platform for CTF for team competitions. Instead, they consist of a set of computer security challenges involving reverse-engineering, memory corruption, cryptography, web technologies, and more. 
 - [Microctfs](https://github.com/gabemarshall/microctfs) - Small CTF challenges running on Docker.
 - [RingZer0 Team Online CTF](https://ringzer0ctf.com/) - RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
-- [W3Challs](https://w3challs.com/) - W3Chalss have challenges address several subsets of hacking, mostly oriented on the offensive with a multitude of technologies and architectures. 
 
 ### Platforms to organize CTF
 - [FBCTF](https://github.com/facebookarchive/fbctf) - The Facebook CTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
