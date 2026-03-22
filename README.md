@@ -1,10 +1,6 @@
 # Awesome Hacking Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
- > Training your hacking skills safely and legally.
-
-**Awesome Hacking Training** is a curated list of security and hacking training platforms and resources to practice safely and legally. This list aims to help students, professors, and IT professionals to find everything related to hacking training in one place.
-
-Your **contributions** and suggestions are heartily welcome. Please check the [Contributing Guidelines](contributing.md) for more details.
+ > Training your hacking skills safely and legally. Awesome Hacking Training aims to help you find everything related to hacking training in one place.
 
 
 ## Contents
@@ -12,11 +8,11 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 - [Blue Team](#blue-team)
 - [Capture The Flag - CTF](#capture-the-flag---ctf)
     - [Events](#events)
-    - [Platforms for learnign](#platforms-for-learnign)
+    - [Platforms for learning](#platforms-for-learning)
     - [Platforms to organize CTF](#platforms-to-organize-ctf)
-    - [Another resources](#another-resources)
+    - [Additional resources](#additional-resources)
 - [Championships](#championships)
-- [Cryptografy](#cryptografy)
+- [Cryptography](#cryptography)
 - [Operating Systems](#operating-systems)
 - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
 - [Reverse Engineering](#reverse-engineering)
@@ -24,8 +20,8 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
     - [Return-Oriented Programming (ROP)](#return-oriented-programming-rop)
 - [Specific Vulnerabilities](#specific-vulnerabilities)
     - [Cross-Site Scripting - XSS](#cross-site-scripting---xss)
-- [Web Applicactions](#web-applicactions)
-- [Learning Resources](#learning-resources)
+- [Web Applications](#web-applications)
+- [Learning resources](#learning-resources)
 
 
 ## Blue Team
@@ -34,7 +30,7 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 
 ## Capture The Flag - CTF
 
-#### Platforms for learnign
+### Platforms for learning
 - [247CTF](https://247ctf.com/) - A continuous learning environment. New challenges are added monthly, to enable you to continuously learn, hack and improve.
 - [CTF365](https://ctf365.com/) - Step into our world and start hacking. Defend your servers, and launch attacks on others, all using the exact same techniques that work in the real world. 
 - [CTF Challenge](https://ctfchallenge.com/) - A collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities based on bug reports, real world experiences or vulnerabilities found in the OWASP Top 10.
@@ -45,11 +41,11 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 - [RingZer0 Team Online CTF](https://ringzer0ctf.com/) - RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
 - [W3Challs](https://w3challs.com/) - W3Chalss have challenges address several subsets of hacking, mostly oriented on the offensive with a multitude of technologies and architectures. 
 
-#### Platforms to organize CTF
+### Platforms to organize CTF
 - [FBCTF](https://github.com/facebookarchive/fbctf) - The Facebook CTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP. 
 
-#### Another resources  
+### Additional resources  
 - [Awesome CTF Resources](https://github.com/devploit/awesome-ctf-resources) - A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players.
 
 ## Championships
@@ -60,7 +56,7 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 - [Swiss Hacking Challenge](https://www.swiss-hacking-challenge.ch/) - The Swiss Hacking Challenge (SHC), is the annual National Hacking Championship of Switzerland.
 
 
-## Cryptografy 
+## Cryptography 
 
 - [CryptoHack](https://cryptohack.org/) - Learn about modern cryptography by solving a series of interactive puzzles and challenges. Get to know the ciphers and protocols that secure the digital world by breaking them.
 - [The Cryptopals Crypto Challenges](https://cryptopals.com/) - Cryptopals built a collection of 48 exercises derived from weaknesses in real-world systems and modern cryptographic constructions. They give you enough info to learn about the underlying crypto concepts yourself. 
@@ -105,18 +101,18 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 
 ## Specific Techniques
 
-#### Return-Oriented Programming (ROP)
+### Return-Oriented Programming (ROP)
 - [ROP Emporium](https://ropemporium.com/) - Learn return-oriented programming through a series of challenges.
 
 
 ## Specific Vulnerabilities
 
-#### Cross-Site Scripting - XSS 
+### Cross-Site Scripting - XSS 
 - [DomGoat](https://domgo.at/cxss/intro) - DOM Security learning platform with different levels, each level targetting on different sources and sinks.
 - [XSS Game](https://xss-game.appspot.com/) - In this training program, you will learn to find and exploit XSS bugs.
 
 
-## Web Applicactions 
+## Web Applications 
 
 - [bWAPP](http://www.itsecgames.com/) - A PHP application with over 100 web vulnerabilities. It covers all major known web bugs, including all risks from the OWASP Top 10 project.
 - [DVWA](https://github.com/digininja/DVWA) - A PHP/MariaDB web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
@@ -135,3 +131,6 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - It is the most complete and in-depth Metasploit guide available by Offensive Security, with contributions from the authors of the No Starch Press Metasploit Book. 
 
+## Contributing
+
+Your contributions and suggestions are heartily welcome. Please check the [Contributing Guidelines](contributing.md) for more details.
