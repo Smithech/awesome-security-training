@@ -9,6 +9,7 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 
 ## Contents
 
+- [Blue Team](#blue-team)
 - [Capture The Flag - CTF](#capture-the-flag---ctf)
     - [Events](#events)
     - [Platforms for learnign](#platforms-for-learnign)
@@ -27,10 +28,11 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 - [Learning Resources](#learning-resources)
 
 
-## Capture The Flag - CTF
+## Blue Team
+- [Blue Team Labs by Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) - Put your knowledge into practice with gamified cyber security challenges.
 
-#### Events
-- [PicoCTF](https://picoctf.org/) - Provides year-round cyber security education content for learners of all skill levels. Participants learn to overcome sets of challenges from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, binary explotation and reversing.
+
+## Capture The Flag - CTF
 
 #### Platforms for learnign
 - [247CTF](https://247ctf.com/) - A continuous learning environment. New challenges are added monthly, to enable you to continuously learn, hack and improve.
@@ -38,6 +40,7 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 - [CTF Challenge](https://ctfchallenge.com/) - A collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities based on bug reports, real world experiences or vulnerabilities found in the OWASP Top 10.
 - [CTF Learn](https://ctflearn.com/) - The most beginner-friendly way to learn cyber security. Test your skills by hacking your way through hundreds of challenges.
 - [CTF Time](https://ctftime.org/) - It is a kind of CTF archive and of course, where you can get some other CTF-related info - current overall Capture The Flag team rating, per-team statistics, etc.
+- [Google CTF](https://capturetheflag.withgoogle.com/) - Google Platform for CTF for team competitions. Instead, they consist of a set of computer security challenges involving reverse-engineering, memory corruption, cryptography, web technologies, and more. 
 - [Microctfs](https://github.com/gabemarshall/microctfs) - Small CTF challenges running on Docker.
 - [RingZer0 Team Online CTF](https://ringzer0ctf.com/) - RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
 - [W3Challs](https://w3challs.com/) - W3Chalss have challenges address several subsets of hacking, mostly oriented on the offensive with a multitude of technologies and architectures. 
@@ -52,6 +55,8 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 ## Championships
 
 - [European Cybersecurity Challenge](https://ecsc.eu/) - The European Cyber Security Challenge is an initiative by the European Union Agency for Cybersecurity (ENISA) and aims at enhancing cybersecurity talent across Europe and connecting high potentials with industry leading organizations.
+- [PicoCTF](https://picoctf.org/) - Provides year-round cyber security education content for learners of all skill levels. Participants learn to overcome sets of challenges from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, binary explotation and reversing.
+- [SANS Holidays Hack Challenges](https://www.holidayhackchallenge.com/) - FREE, high-quality, and super fun hands-on cybersecurity challenges designed for all skill levels. 
 - [Swiss Hacking Challenge](https://www.swiss-hacking-challenge.ch/) - The Swiss Hacking Challenge (SHC), is the annual National Hacking Championship of Switzerland.
 
 
@@ -77,12 +82,18 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 - [Hack The Box](https://www.hackthebox.com/) -  HTB is a dynamically growing hacking community. Take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience.
 - [Hack The Site](https://www.hackthissite.org/) - A free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 - [Hacker 101](https://www.hacker101.com/) - A free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+- [Hackviser](https://hackviser.com/) - Tailored cybersecurity upskilling platform for all levels, catering to beginners and pros. 
+- [Newbie Contest](https://www.newbiecontest.org/) - A series of challenges covering several areas, from exploiting vulnerabilities and cracks, to steganography, cryptography, and programming.
 - [Over The Wire](https://overthewire.org/wargames/) - The wargames can help you to learn and practice security concepts in the form of fun-filled games.
 - [PentesterLab](https://pentesterlab.com/) - Platform for learning and help level up skill on Web Hacking. 
 - [Pwnable.kr](http://pwnable.kr/) - Provides various pwn challenges regarding system exploitation. In order to read the flag file, you need some skills regarding programming, reverse-engineering, bug exploitation, system knowledge, cryptography.
 - [Pwanable.tw](https://pwnable.tw/) - Wargame site for hackers to test and expand their binary exploiting skills.
 - [Root Me](https://www.root-me.org/) - The fast, easy, and affordable way to train your hacking skills.
+- [Smash The Stack](https://www.smashthestack.org/main.html#wargames) - Ethical hacking environment that simulates real-world software vulnerabilities. Each wargame allows learners to test their knowledge, skills, and abilities in reverse engineering, web app pen-testing, software exploitation, and much more.
 - [Try Hack Me](https://tryhackme.com/) - Learn by following a structured paths and reinforce your skills in a real-world environment by completing guided, objective-based tasks and challenges.
+- [Vulnmachines](https://www.vulnmachines.com/) - A cybersecurity learning platform where security enthusiasts can get a hands-on experience of various skills in different cybersecurity categories through Capture The Flag Contests.
+- [W3Challs](https://w3challs.com/) - Security challenges to learn and practice hacking. Challenge categories: Crypto, Forensics, Misc, Pwing, Reversing and Web. 
+- [WebSploit Labs](https://websploit.org/) - Includes several intentionally vulnerable applications running in Docker containers on top of Kali Linux or Parrot Security OS, several additional tools, and over 9,000 cybersecurity resources.
 
 
 ## Reverse Engineering
@@ -109,6 +120,7 @@ Your **contributions** and suggestions are heartily welcome. Please check the [C
 
 - [bWAPP](http://www.itsecgames.com/) - A PHP application with over 100 web vulnerabilities. It covers all major known web bugs, including all risks from the OWASP Top 10 project.
 - [DVWA](https://github.com/digininja/DVWA) - A PHP/MariaDB web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
+- [Hacksplaining](https://www.hacksplaining.com/) - Completely free, comprehensive security training for web developers. Learn about all the major vulnerabilities that threaten your stack and hack real vulnerable applications to see how the attacks work.
 - [OWASP Mutilliadae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security enthusiasts. 
 - [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Web and mobile application security highly configurable training platform. Shepherd to be used by a single local user, by many in a competitive classroom environment, or by hundreds in an online hacking competition.
 - [Samurai Web Training Framework](https://github.com/SamuraiWTF/samuraiwtf) - This project is not a vulnerable application. It is a framework designed for quickly configuring training virtual machines with tools and vulnerable application targets.
