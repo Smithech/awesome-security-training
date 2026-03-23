@@ -1,6 +1,6 @@
 # Awesome Hacking Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
- > Training your hacking skills safely and legally. Awesome Hacking Training aims to help you find everything related to hacking training in one place.
+ > Training your hacking skills safely and legally. 
 
 
 ## Contents
