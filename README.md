@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [API](#api)
 - [Blue Team](#blue-team)
 - [Capture The Flag - CTF](#capture-the-flag---ctf)
     - [Platforms for learning](#platforms-for-learning)
@@ -23,8 +24,14 @@
 - [Learning resources](#learning-resources)
 
 
+## API
+- [VAmPI](https://github.com/erev0s/VAmPI) - A vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
+
+
 ## Blue Team
+
 - [Blue Team Labs by Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) - Put your knowledge into practice with gamified cyber security challenges.
+- [LetsDefend](https://app.letsdefend.io/) - Hands-On Blue Team Training. LetsDefend helps you build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC.
 
 
 ## Capture The Flag - CTF
@@ -49,15 +56,25 @@
 ## Championships
 
 - [European Cybersecurity Challenge](https://ecsc.eu/) - The European Cyber Security Challenge is an initiative by the European Union Agency for Cybersecurity (ENISA) and aims at enhancing cybersecurity talent across Europe and connecting high potentials with industry leading organizations.
+- [OAS Cyber Americas Cup](https://www.oas.org/ext/en/main/calendar/event/id/1465) - Regional initiative organized by the Cybersecurity Section of the Inter-American Committee against Terrorism (CICTE) of the Organization of American States (OAS), with the support of Hackrocks.
 - [PicoCTF](https://picoctf.org/) - Provides year-round cyber security education content for learners of all skill levels. Participants learn to overcome sets of challenges from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, binary explotation and reversing.
 - [SANS Holidays Hack Challenges](https://www.holidayhackchallenge.com/) - FREE, high-quality, and super fun hands-on cybersecurity challenges designed for all skill levels. 
 - [Swiss Hacking Challenge](https://www.swiss-hacking-challenge.ch/) - The Swiss Hacking Challenge (SHC), is the annual National Hacking Championship of Switzerland.
+
+
+## Cloud
+- [Flaws](http://flaws.cloud.s3-website-us-west-2.amazonaws.com/) - Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).  
 
 
 ## Cryptography 
 
 - [CryptoHack](https://cryptohack.org/) - Learn about modern cryptography by solving a series of interactive puzzles and challenges. Get to know the ciphers and protocols that secure the digital world by breaking them.
 - [The Cryptopals Crypto Challenges](https://cryptopals.com/) - Cryptopals built a collection of 48 exercises derived from weaknesses in real-world systems and modern cryptographic constructions. They give you enough info to learn about the underlying crypto concepts yourself. 
+
+
+## Forensics
+
+- [Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) - This portal is your gateway to documented digital forensic image datasets. It can assist in a variety of tasks including tool testing, developing familiarity with tool behavior for given tasks, general practitioner training and other unforeseen uses that the user of the datasets can devise. 
 
 
 ## Operating Systems
@@ -93,7 +110,7 @@
 ## Reverse Engineering
 
 - [Crakmes](https://crackmes.one/) - This is a simple place where you can download crackmes to improve your reverse engineering skills.
-- [Nightmare](https://github.com/guyinatuxedo/nightmare) - Introductory course to binary exploitation/reverse engineering based on CTF (Capture The Flag) challenges..
+- [Nightmare](https://github.com/guyinatuxedo/nightmare) - Introductory course to binary exploitation/reverse engineering based on CTF (Capture The Flag) challenges.
 - [Reverse Engineering Challenges](https://challenges.re/) - Reverse engineering exercises that include different architectures and operating systems. 
 
 
@@ -106,6 +123,7 @@
 ## Specific Vulnerabilities
 
 ### Cross-Site Scripting - XSS 
+- [alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0) - A place for practicing XSS, in particular filter bypassing. It requires familiarity of javascript and URL encoding / HTML encoding. So let’s start the first challenge.
 - [DomGoat](https://domgo.at/cxss/intro) - DOM Security learning platform with different levels, each level targetting on different sources and sinks.
 - [XSS Game](https://xss-game.appspot.com/) - In this training program, you will learn to find and exploit XSS bugs.
 
@@ -128,6 +146,7 @@
 ## Learning resources
 
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - It is the most complete and in-depth Metasploit guide available by Offensive Security, with contributions from the authors of the No Starch Press Metasploit Book. 
+- [Zenk Security](https://www.zenk-security.com/) - Tutorials, informative articles, and other technical and non-technical texts on various areas of cybersecurity.
 
 ## Contributing
 
