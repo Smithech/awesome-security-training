@@ -7,9 +7,10 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 Before creating a pull-request, you should ensure that:
 - Your suggestion is not already in the list.
 - Your pull request contains only one suggestion.
+- Keep descriptions concise (under 100 characters).
 - There are no spelling or grammatical errors.
-- Suggestions are in the format `[Resource](link) - _Maintainer_`
-- Use title-casing (AP style).
+- Suggestions are in the format `[Resource](link) - Description`
+- Descriptions must end with a period.
 - Resources within a group are alphabetised.
 
 Before suggesting a tool, make sure that the tool:
@@ -17,6 +18,13 @@ Before suggesting a tool, make sure that the tool:
 - Is actively supported and do not have excessive issues.
 
 Thank you for your suggestions!
+
+## Pull Request Process
+
+- Fork the repository.
+- Add your entry following the format above.
+- Submit a PR with a clear description.
+
 
 ## Updating your Pull Request
 
