@@ -20,6 +20,7 @@
     - [Platforms to organize CTF](#platforms-to-organize-ctf)
     - [Additional resources](#additional-resources)
 - [Championships](#championships)
+- [Cloud](#cloud)
 - [Cryptography](#cryptography)
 - [Operating Systems](#operating-systems)
 - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
@@ -131,7 +132,7 @@
 ## Specific Vulnerabilities
 
 ### Cross-Site Scripting - XSS 
-- [alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0) - A place for practicing XSS, in particular filter bypassing. It requires familiarity of javascript and URL encoding / HTML encoding. So let’s start the first challenge.
+- [alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0) - A place for practicing XSS, in particular filter bypassing. It requires familiarity of JavaScript and URL encoding / HTML encoding. 
 - [DomGoat](https://domgo.at/cxss/intro) - DOM Security learning platform with different levels, each level targetting on different sources and sinks.
 - [XSS Game](https://xss-game.appspot.com/) - In this training program, you will learn to find and exploit XSS bugs.
 
