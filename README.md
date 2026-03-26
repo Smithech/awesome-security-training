@@ -1,6 +1,12 @@
 # Awesome Hacking Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
- > Training your hacking skills safely and legally. 
+
+<div style="display: flex; justify-content: center; margin-bottom: 25px;">
+    <img src="assets/banner.png" height="350" />
+</div>
+
+
+ > Training your hacking skills safely and legally.  
 
 
 ## Contents
