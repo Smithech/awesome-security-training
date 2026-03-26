@@ -1,7 +1,7 @@
 # Awesome Hacking Training [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 
-<div style="display: flex; justify-content: center; margin-bottom: 25px;">
+<div align="center">
     <img src="assets/banner.png" height="350" />
 </div>
 
