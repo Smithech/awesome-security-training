@@ -2,7 +2,9 @@
 
 
 <div align="center">
-    <img src="assets/banner.png" height="350" />
+    <a title="Awesome Hacking Training href="https://github.com/Smithech/awesome-hacking-training">
+        <img src="assets/banner.png" height="350" /
+    </a>
 </div>
 
 
