@@ -22,6 +22,7 @@
 - [Championships](#championships)
 - [Cloud](#cloud)
 - [Cryptography](#cryptography)
+- [Forensics](#forensics)
 - [Operating Systems](#operating-systems)
 - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
 - [Reverse Engineering](#reverse-engineering)
@@ -101,7 +102,7 @@
 - [Exploit.education](https://exploit.education/) - Provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
 - [Hack The Box](https://www.hackthebox.com/) -  HTB is a dynamically growing hacking community. Take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience.
 - [Hack The Site](https://www.hackthissite.org/) - A free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
-- [Hacker 101](https://www.hacker101.com/) - A free class for web security. Whether you’re a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
+- [Hacker 101](https://www.hacker101.com/) - A free class for web security. Whether you are a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
 - [Hackviser](https://hackviser.com/) - Tailored cybersecurity upskilling platform for all levels, catering to beginners and pros. 
 - [Newbie Contest](https://www.newbiecontest.org/) - A series of challenges covering several areas, from exploiting vulnerabilities and cracks, to steganography, cryptography, and programming.
 - [Over The Wire](https://overthewire.org/wargames/) - The wargames can help you to learn and practice security concepts in the form of fun-filled games.
