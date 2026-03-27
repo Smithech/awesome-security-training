@@ -66,7 +66,7 @@
 
 - [European Cybersecurity Challenge](https://ecsc.eu/) - The European Cyber Security Challenge is an initiative by the European Union Agency for Cybersecurity (ENISA) and aims at enhancing cybersecurity talent across Europe and connecting high potentials with industry leading organizations.
 - [OAS Cyber Americas Cup](https://www.oas.org/ext/en/main/calendar/event/id/1465) - Regional initiative organized by the Cybersecurity Section of the Inter-American Committee against Terrorism (CICTE) of the Organization of American States (OAS), with the support of Hackrocks.
-- [PicoCTF](https://picoctf.org/) - Provides year-round cyber security education content for learners of all skill levels. Participants learn to overcome sets of challenges from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, binary explotation and reversing.
+- [PicoCTF](https://picoctf.org/) - Provides year-round cyber security education content for learners of all skill levels. Participants learn to overcome sets of challenges from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, binary exploitation and reversing.
 - [SANS Holidays Hack Challenges](https://www.holidayhackchallenge.com/) - FREE, high-quality, and super fun hands-on cybersecurity challenges designed for all skill levels. 
 - [Swiss Hacking Challenge](https://www.swiss-hacking-challenge.ch/) - The Swiss Hacking Challenge (SHC), is the annual National Hacking Championship of Switzerland.
 
@@ -89,9 +89,9 @@
 ## Operating Systems
 
 - [Lin.Security](https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/) - A Linux VM (Ubuntu 18.04 LTS) that suffers from a number of vulnerabilities that allow a user to escalate to root on the box. This VM has been designed to help understand how certain built-in applications and services if misconfigured, may be abused by an attacker.
-- [Metaspolitable 2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) - An intentionally vulnerable version of Ubuntu Linux designed for testing security tools and demonstrating common vulnerabilities.
+- [Metasploitable 2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) - An intentionally vulnerable version of Ubuntu Linux designed for testing security tools and demonstrating common vulnerabilities.
 - [Metasploitable 3](https://github.com/rapid7/metasploitable3) - VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits with metasploit.
-- [VulHub](https://www.vulnhub.com/) - Provides materials that allow anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
+- [VulnHub](https://www.vulnhub.com/) - Provides materials that allow anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
 - [Vulnserver](https://thegreycorner.com/vulnserver.html) - Multithreaded Windows-based TCP server and allows the user to run a number of different commands that are vulnerable to various types of exploitable buffer overflows.
 
 
@@ -107,7 +107,7 @@
 - [Over The Wire](https://overthewire.org/wargames/) - The wargames can help you to learn and practice security concepts in the form of fun-filled games.
 - [PentesterLab](https://pentesterlab.com/) - Platform for learning and help level up skill on Web Hacking. 
 - [Pwnable.kr](http://pwnable.kr/) - Provides various pwn challenges regarding system exploitation. In order to read the flag file, you need some skills regarding programming, reverse-engineering, bug exploitation, system knowledge, cryptography.
-- [Pwanable.tw](https://pwnable.tw/) - Wargame site for hackers to test and expand their binary exploiting skills.
+- [Pwnable.tw](https://pwnable.tw/) - Wargame site for hackers to test and expand their binary exploiting skills.
 - [Root Me](https://www.root-me.org/) - The fast, easy, and affordable way to train your hacking skills.
 - [Smash The Stack](https://www.smashthestack.org/main.html#wargames) - Ethical hacking environment that simulates real-world software vulnerabilities. Each wargame allows learners to test their knowledge, skills, and abilities in reverse engineering, web app pen-testing, software exploitation, and much more.
 - [Try Hack Me](https://tryhackme.com/) - Learn by following a structured paths and reinforce your skills in a real-world environment by completing guided, objective-based tasks and challenges.
@@ -118,7 +118,7 @@
 
 ## Reverse Engineering
 
-- [Crakmes](https://crackmes.one/) - This is a simple place where you can download crackmes to improve your reverse engineering skills.
+- [Crackmes](https://crackmes.one/) - This is a simple place where you can download crackmes to improve your reverse engineering skills.
 - [Nightmare](https://github.com/guyinatuxedo/nightmare) - Introductory course to binary exploitation/reverse engineering based on CTF (Capture The Flag) challenges.
 - [Reverse Engineering Challenges](https://challenges.re/) - Reverse engineering exercises that include different architectures and operating systems. 
 
