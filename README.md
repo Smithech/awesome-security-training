@@ -57,7 +57,6 @@
 - [RingZer0 Team Online CTF](https://ringzer0ctf.com/) - RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
 
 ### Platforms to organize CTF
-- [FBCTF](https://github.com/facebookarchive/fbctf) - The Facebook CTF is a platform to host Jeopardy and “King of the Hill” style Capture the Flag competitions.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP. 
 
 ### Additional resources  
