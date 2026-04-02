@@ -16,6 +16,7 @@
 - [API](#api)
 - [Blue Team](#blue-team)
 - [Capture The Flag - CTF](#capture-the-flag---ctf)
+- [Championships](#championships)
 - [Cloud](#cloud)
 - [Cryptography](#cryptography)
 - [Forensics](#forensics)
