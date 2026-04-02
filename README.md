@@ -26,10 +26,7 @@
 - [Operating Systems](#operating-systems)
 - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
 - [Reverse Engineering](#reverse-engineering)
-- [Specific Techniques](#specific-techniques)
-    - [Return-Oriented Programming (ROP)](#return-oriented-programming-rop)
-- [Specific Vulnerabilities](#specific-vulnerabilities)
-    - [Cross-Site Scripting - XSS](#cross-site-scripting---xss)
+- [Specific Techniques and Vulnerabilities](#specific-techniques-and-vulnerabilities)
 - [Web Applications](#web-applications)
 - [Learning resources](#learning-resources)
 
@@ -123,17 +120,11 @@
 - [Reverse Engineering Challenges](https://challenges.re/) - Reverse engineering exercises that include different architectures and operating systems. 
 
 
-## Specific Techniques
+## Specific Techniques and Vulnerabilities
 
-### Return-Oriented Programming (ROP)
-- [ROP Emporium](https://ropemporium.com/) - Learn return-oriented programming through a series of challenges.
-
-
-## Specific Vulnerabilities
-
-### Cross-Site Scripting - XSS 
 - [alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0) - A place for practicing XSS, in particular filter bypassing. It requires familiarity of JavaScript and URL encoding / HTML encoding. 
 - [DomGoat](https://domgo.at/cxss/intro) - DOM Security learning platform with different levels, each level targetting on different sources and sinks.
+- [ROP Emporium](https://ropemporium.com/) - Learn return-oriented programming (ROP) through a series of challenges.
 - [XSS Game](https://xss-game.appspot.com/) - In this training program, you will learn to find and exploit XSS bugs.
 
 
