@@ -16,9 +16,6 @@
 - [API](#api)
 - [Blue Team](#blue-team)
 - [Capture The Flag - CTF](#capture-the-flag---ctf)
-    - [Platforms for learning](#platforms-for-learning)
-    - [Platforms to organize CTF](#platforms-to-organize-ctf)
-    - [Additional resources](#additional-resources)
 - [Championships](#championships)
 - [Cloud](#cloud)
 - [Cryptography](#cryptography)
@@ -43,7 +40,6 @@
 
 ## Capture The Flag - CTF
 
-### Platforms for learning
 - [247CTF](https://247ctf.com/) - A continuous learning environment. New challenges are added monthly, to enable you to continuously learn, hack and improve.
 - [CTF365](https://ctf365.com/) - Step into our world and start hacking. Defend your servers, and launch attacks on others, all using the exact same techniques that work in the real world. 
 - [CTF Challenge](https://ctfchallenge.com/) - A collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities based on bug reports, real world experiences or vulnerabilities found in the OWASP Top 10.
@@ -53,11 +49,6 @@
 - [Microctfs](https://github.com/gabemarshall/microctfs) - Small CTF challenges running on Docker.
 - [RingZer0 Team Online CTF](https://ringzer0ctf.com/) - RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
 
-### Platforms to organize CTF
-- [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP. 
-
-### Additional resources  
-- [Awesome CTF Resources](https://github.com/devploit/awesome-ctf-resources) - A list of Capture The Flag (CTF) frameworks, libraries, resources and software for started/experienced CTF players.
 
 ## Championships
 
