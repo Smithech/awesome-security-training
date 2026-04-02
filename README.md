@@ -155,6 +155,10 @@
 ## Learning resources
 
 - [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - It is the most complete and in-depth Metasploit guide available by Offensive Security, with contributions from the authors of the No Starch Press Metasploit Book. 
+- [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) - ASVS provides a basis for testing web application technical security controls and a list of requirements for secure development. 
+- [OWASP Mobile Application Security](https://owasp.org/www-project-mobile-app-security/) - MAS provides a security standard, a list of common security and privacy weaknesses and a comprehensive testing guide.
+- [OWASP Top Ten Web Application Security Risks](https://owasp.org/www-project-top-ten/) - A standard awareness document for developers and web application security.
+- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - The WSTG is a comprehensive guide to testing the security of web applications and web services. 
 - [Zenk Security](https://www.zenk-security.com/) - Tutorials, informative articles, and other technical and non-technical texts on various areas of cybersecurity.
 
 ## Contributing
