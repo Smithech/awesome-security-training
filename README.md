@@ -14,12 +14,11 @@
 ## Contents
 
 - [API](#api)
-- [Blue Team](#blue-team)
+- [Blue Team and DFIR](#blue-team-and-dfir)
 - [Capture The Flag - CTF](#capture-the-flag---ctf)
 - [Championships](#championships)
 - [Cloud](#cloud)
 - [Cryptography](#cryptography)
-- [Forensics](#forensics)
 - [Operating Systems](#operating-systems)
 - [Platforms to Improve Hacking Skills](#platforms-to-improve-hacking-skills)
 - [Reverse Engineering](#reverse-engineering)
@@ -32,10 +31,11 @@
 - [VAmPI](https://github.com/erev0s/VAmPI) - A vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
 
 
-## Blue Team
+## Blue Team and DFIR
 
 - [Blue Team Labs by Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) - Put your knowledge into practice with gamified cyber security challenges.
-- [LetsDefend](https://app.letsdefend.io/) - Hands-On Blue Team Training. LetsDefend helps you build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC.
+- [LetsDefend](https://app.letsdefend.io/) - Hands-On Blue Team Training with hands-on experience by investigating real cyber attacks inside a simulated SOC.
+- [Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) - This portal is your gateway to documented digital forensic image datasets.  
 
 
 ## Capture The Flag - CTF
@@ -67,11 +67,6 @@
 
 - [CryptoHack](https://cryptohack.org/) - Learn about modern cryptography by solving a series of interactive puzzles and challenges. Get to know the ciphers and protocols that secure the digital world by breaking them.
 - [The Cryptopals Crypto Challenges](https://cryptopals.com/) - Cryptopals built a collection of 48 exercises derived from weaknesses in real-world systems and modern cryptographic constructions. They give you enough info to learn about the underlying crypto concepts yourself. 
-
-
-## Forensics
-
-- [Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) - This portal is your gateway to documented digital forensic image datasets. It can assist in a variety of tasks including tool testing, developing familiarity with tool behavior for given tasks, general practitioner training and other unforeseen uses that the user of the datasets can devise. 
 
 
 ## Operating Systems
