@@ -65,17 +65,17 @@
 
 ## Cryptography 
 
-- [CryptoHack](https://cryptohack.org/) - Learn about modern cryptography by solving a series of interactive puzzles and challenges. Get to know the ciphers and protocols that secure the digital world by breaking them.
-- [The Cryptopals Crypto Challenges](https://cryptopals.com/) - Cryptopals built a collection of 48 exercises derived from weaknesses in real-world systems and modern cryptographic constructions. They give you enough info to learn about the underlying crypto concepts yourself. 
+- [CryptoHack](https://cryptohack.org/) - Learn about modern cryptography by solving a series of interactive puzzles and challenges.
+- [The Cryptopals Crypto Challenges](https://cryptopals.com/) - A collection of 48 exercises derived from weaknesses in real-world systems and modern cryptographic constructions. 
 
 
 ## Operating Systems
 
-- [Lin.Security](https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/) - A Linux VM (Ubuntu 18.04 LTS) that suffers from a number of vulnerabilities that allow a user to escalate to root on the box. This VM has been designed to help understand how certain built-in applications and services if misconfigured, may be abused by an attacker.
+- [Lin.Security](https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/) - A Linux VM (Ubuntu 18.04 LTS) that suffers from a number of vulnerabilities that allow a user to escalate to root on the box. 
 - [Metasploitable 2](https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/) - An intentionally vulnerable version of Ubuntu Linux designed for testing security tools and demonstrating common vulnerabilities.
 - [Metasploitable 3](https://github.com/rapid7/metasploitable3) - VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits with metasploit.
-- [VulnHub](https://www.vulnhub.com/) - Provides materials that allow anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
-- [Vulnserver](https://thegreycorner.com/vulnserver.html) - Multithreaded Windows-based TCP server and allows the user to run a number of different commands that are vulnerable to various types of exploitable buffer overflows.
+- [VulnHub](https://www.vulnhub.com/) - A catalogue of 'stuff' that is legally 'breakable, hackable & exploitable' - allowing you to learn in a safe environment and practise 'stuff' out.
+- [Vulnserver](https://thegreycorner.com/vulnserver.html) - A Windows based threaded TCP server application that is designed to be exploited.
 
 
 ## Platforms to Improve Hacking Skills
