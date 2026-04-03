@@ -41,13 +41,13 @@
 ## Capture The Flag - CTF
 
 - [247CTF](https://247ctf.com/) - A continuous learning environment. New challenges are added monthly, to enable you to continuously learn, hack and improve.
-- [CTF365](https://ctf365.com/) - Step into our world and start hacking. Defend your servers, and launch attacks on others, all using the exact same techniques that work in the real world. 
-- [CTF Challenge](https://ctfchallenge.com/) - A collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities based on bug reports, real world experiences or vulnerabilities found in the OWASP Top 10.
-- [CTF Learn](https://ctflearn.com/) - The most beginner-friendly way to learn cyber security. Test your skills by hacking your way through hundreds of challenges.
-- [CTF Time](https://ctftime.org/) - It is a kind of CTF archive and of course, where you can get some other CTF-related info - current overall Capture The Flag team rating, per-team statistics, etc.
-- [Google CTF](https://capturetheflag.withgoogle.com/) - Google Platform for CTF for team competitions. Instead, they consist of a set of computer security challenges involving reverse-engineering, memory corruption, cryptography, web technologies, and more. 
+- [CTF365](https://ctf365.com/) - A real life cyber range where you build their own servers and defend them while attacking other servers. 
+- [CTF Learn](https://ctflearn.com/) - Test your skills by hacking your way through hundreds of challenges, and learn cybersecurity in community.
+- [CTF Time](https://ctftime.org/) - It is a kind of archive about CTF competitions.
+- [Google CTF](https://capturetheflag.withgoogle.com/) - Team competitions that consist of a set of computer security challenges involving reverse-engineering, memory corruption, cryptography, web technologies, and more. 
+- [Hacking Hub](https://app.hackinghub.io/hubs) - Carefully crafted environments based on real vulnerabilities, released pentests and bug bounty findings. 
 - [Microctfs](https://github.com/gabemarshall/microctfs) - Small CTF challenges running on Docker.
-- [RingZer0 Team Online CTF](https://ringzer0ctf.com/) - RingZer0 Team's online CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
+- [RingZer0 Team Online CTF](https://ringzer0ctf.com/) - This CTF offers you tons of challenges designed to test and improve your hacking skills through hacking challenges.
 
 
 ## Championships
