@@ -52,10 +52,10 @@
 
 ## Championships
 
-- [European Cybersecurity Challenge](https://ecsc.eu/) - The European Cyber Security Challenge is an initiative by the European Union Agency for Cybersecurity (ENISA) and aims at enhancing cybersecurity talent across Europe and connecting high potentials with industry leading organizations.
-- [OAS Cyber Americas Cup](https://www.oas.org/ext/en/main/calendar/event/id/1465) - Regional initiative organized by the Cybersecurity Section of the Inter-American Committee against Terrorism (CICTE) of the Organization of American States (OAS), with the support of Hackrocks.
-- [PicoCTF](https://picoctf.org/) - Provides year-round cyber security education content for learners of all skill levels. Participants learn to overcome sets of challenges from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, binary exploitation and reversing.
-- [SANS Holidays Hack Challenges](https://www.holidayhackchallenge.com/) - FREE, high-quality, and super fun hands-on cybersecurity challenges designed for all skill levels. 
+- [European Cybersecurity Challenge](https://ecsc.eu/) - An initiative by the European Union Agency for Cybersecurity (ENISA) and aims at enhancing cybersecurity talent across Europe and connecting high potentials with industry leading organizations.
+- [OAS Cyber Americas Cup](https://www.oas.org/ext/en/main/calendar/event/id/1465) - Regional initiative organized by the Cybersecurity Section of the CICTE of the Organization of American States (OAS), with the support of Hackrocks.
+- [PicoCTF](https://picoctf.org/) - Provides cyber security education content for learners of all skill levels from six domains of cybersecurity including general skills, cryptography, web exploitation, forensics, binary exploitation and reversing.
+- [SANS Holidays Hack Challenges](https://www.holidayhackchallenge.com/) - Free, high-quality, and super fun hands-on cybersecurity challenges designed for all skill levels. 
 - [Swiss Hacking Challenge](https://www.swiss-hacking-challenge.ch/) - The Swiss Hacking Challenge (SHC), is the annual National Hacking Championship of Switzerland.
 
 
