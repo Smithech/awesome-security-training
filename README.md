@@ -62,7 +62,9 @@
 
 
 ## Cloud
+- [CYBR](https://cybr.com/hands-on-labs/) - Learn AWS security by attacking and defending cloud environments.
 - [Flaws](http://flaws.cloud.s3-website-us-west-2.amazonaws.com/) - Through a series of levels you'll learn about common mistakes and gotchas when using Amazon Web Services (AWS).  
+- [BlackSky](https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky) - Cloud labs by Hack The Box for learning offensive and defensive security.
 
 
 ## Cryptography 
