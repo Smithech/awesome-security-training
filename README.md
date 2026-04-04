@@ -3,10 +3,9 @@
 
 <div align="center">
     <a title="Awesome Hacking Training" href="https://github.com/Smithech/awesome-hacking-training">
-        <img src="assets/banner.png" height="350" style="margin-bottom: 20px;"/>
+        <img src="assets/banner.png" width="768" alt="Awesome Hacking Training Banner"/>
     </a>
 </div>
-
 
  > Platforms and resources for practicing cybersecurity and penetration testing skills in legal environments.  
 
