@@ -80,23 +80,23 @@
 
 ## Platforms to Improve Hacking Skills
 
-- [Atenea](https://atenea.ccn-cert.cni.es/) - Cyber security platform that presents a number of challenges which cover a wide array of topics: Cryptography and Steganography , Exploiting, Forensics , Networking and Reversing , etc.
-- [Exploit.education](https://exploit.education/) - Provides a variety of resources that can be used to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cyber security issues.
-- [Hack The Box](https://www.hackthebox.com/) -  HTB is a dynamically growing hacking community. Take your cybersecurity skills to the next level through the most captivating, gamified, hands-on training experience.
-- [Hack The Site](https://www.hackthissite.org/) - A free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
-- [Hacker 101](https://www.hacker101.com/) - A free class for web security. Whether you are a programmer with an interest in bug bounties or a seasoned security professional, Hacker101 has something to teach you.
-- [Hackviser](https://hackviser.com/) - Tailored cybersecurity upskilling platform for all levels, catering to beginners and pros. 
-- [Newbie Contest](https://www.newbiecontest.org/) - A series of challenges covering several areas, from exploiting vulnerabilities and cracks, to steganography, cryptography, and programming.
-- [Over The Wire](https://overthewire.org/wargames/) - The wargames can help you to learn and practice security concepts in the form of fun-filled games.
+- [Atenea](https://atenea.ccn-cert.cni.es/) - Cybersecurity platform that presents a number of challenges in Cryptography and Steganography, Exploiting, Forensics, Networking, and Reversing.
+- [Exploit.education](https://exploit.education/) - Provides a variety of resources to learn about vulnerability analysis, exploit development, software debugging, binary analysis, and general cybersecurity topics.
+- [Hack The Box](https://www.hackthebox.com/) -  Cybersecurity training platform, includes academy, labs, CTFs, and job board.
+- [Hack The Site](https://www.hackthissite.org/) - A free training ground to test and expand their ethical hacking skills with challenges, CTFs, and more.
+- [Hacker 101](https://www.hacker101.com/) - A platform for learn in web hacking and bug bounties.
+- [Hackviser](https://hackviser.com/) - A cybersecurity upskilling platform with training, scenarios, labs, and warm-ups.
+- [Newbie Contest](https://www.newbiecontest.org/) - Tailored cybersecurity upskilling platform for all levels.
+- [Over The Wire](https://overthewire.org/wargames/) - The wargames can help you to learn and practice security concepts.
 - [PentesterLab](https://pentesterlab.com/) - Platform for learning and help level up skill on Web Hacking. 
-- [Pwnable.kr](http://pwnable.kr/) - Provides various pwn challenges regarding system exploitation. In order to read the flag file, you need some skills regarding programming, reverse-engineering, bug exploitation, system knowledge, cryptography.
-- [Pwnable.tw](https://pwnable.tw/) - Wargame site for hackers to test and expand their binary exploiting skills.
-- [Root Me](https://www.root-me.org/) - The fast, easy, and affordable way to train your hacking skills.
-- [Smash The Stack](https://www.smashthestack.org/main.html#wargames) - Ethical hacking environment that simulates real-world software vulnerabilities. Each wargame allows learners to test their knowledge, skills, and abilities in reverse engineering, web app pen-testing, software exploitation, and much more.
+- [Pwnable.kr](http://pwnable.kr/) - Provides various pwn challenges regarding system exploitation. You need some skills regarding programming, reverse-engineering, bug exploitation, system knowledge, cryptography.
+- [Pwnable.tw](https://pwnable.tw/) - Wargame site to test and expand binary exploitation skills.
+- [Root Me](https://www.root-me.org/) - It offers challenges on various cybersecurity and CTF topics, and a community to contribute and discuss.
+- [Smash The Stack](https://www.smashthestack.org/main.html#wargames) - An ethical hacking environment that simulates real-world software vulnerabilities to test skills, and abilities in reverse engineering, web app pen-testing, software exploitation, and much more.
 - [Try Hack Me](https://tryhackme.com/) - Learn by following a structured paths and reinforce your skills in a real-world environment by completing guided, objective-based tasks and challenges.
-- [Vulnmachines](https://www.vulnmachines.com/) - A cybersecurity learning platform where security enthusiasts can get a hands-on experience of various skills in different cybersecurity categories through Capture The Flag Contests.
-- [W3Challs](https://w3challs.com/) - Security challenges to learn and practice hacking. Challenge categories: Crypto, Forensics, Misc, Pwing, Reversing and Web. 
-- [WebSploit Labs](https://websploit.org/) - Includes several intentionally vulnerable applications running in Docker containers on top of Kali Linux or Parrot Security OS, several additional tools, and over 9,000 cybersecurity resources.
+- [Vulnmachines](https://www.vulnmachines.com/) - A platform where you can get a hands-on experience of various skills in different cybersecurity categories.
+- [W3Challs](https://w3challs.com/) - Security challenges to learn and practice hacking in cryptography, forensics, miscellaneous topics, pwning, reverse engineering, and web security.
+- [WebSploit Labs](https://websploit.org/) - Includes several intentionally vulnerable applications running in Docker containers on top of Kali Linux or Parrot Security OS.
 
 
 ## Reverse Engineering
