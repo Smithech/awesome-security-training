@@ -8,7 +8,7 @@
 </div>
 
 
- > Training your hacking skills safely and legally.  
+ > Platforms and resources for practicing cybersecurity and penetration testing skills in legal environments.  
 
 
 ## Contents
