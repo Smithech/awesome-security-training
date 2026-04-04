@@ -28,7 +28,10 @@
 
 
 ## API
+- [crAPI](https://github.com/OWASP/crAPI) - A modern platform built on a microservices architecture that helps you understand the ten most critical API security risks. An OWASP project.
+- [vAPI](https://github.com/roottusk/vapi) - An API built with PHP and MySQL that simulates OWASP API Top 10 scenarios through practical exercises.
 - [VAmPI](https://github.com/erev0s/VAmPI) - A vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
+- [VulnerableApp4APISecurity](https://github.com/Erdemstar/VulnerableApp4APISecurity) - An API developed using .NET 7.0 and MongoDB, based on the findings listed in the OWASP 2019 API Security Top 10.
 
 
 ## Blue Team and DFIR
