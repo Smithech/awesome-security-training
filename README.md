@@ -117,17 +117,16 @@
 ## Web Applications 
 
 - [bWAPP](http://www.itsecgames.com/) - A PHP application with over 100 web vulnerabilities. It covers all major known web bugs, including all risks from the OWASP Top 10 project.
-- [DVWA](https://github.com/digininja/DVWA) - A PHP/MariaDB web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
-- [Hacksplaining](https://www.hacksplaining.com/) - Completely free, comprehensive security training for web developers. Learn about all the major vulnerabilities that threaten your stack and hack real vulnerable applications to see how the attacks work.
-- [OWASP Mutilliadae II](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security enthusiasts. 
-- [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - Web and mobile application security highly configurable training platform. Shepherd to be used by a single local user, by many in a competitive classroom environment, or by hundreds in an online hacking competition.
-- [Samurai Web Training Framework](https://github.com/SamuraiWTF/samuraiwtf) - This project is not a vulnerable application. It is a framework designed for quickly configuring training virtual machines with tools and vulnerable application targets.
-- [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - Website that is prepared for people who are interested in web penetration and who want to have information about this subject or to be working. It includes Command Execution, File Inclusion, File Upload, SQL and XSS. 
-- [WebGoat](https://github.com/WebGoat/WebGoat) - A deliberately insecure web application maintained by OWASP designed to teach web application security lessons and demonstrate of common server-side application flaws.
-- [Web Security Academy](https://portswigger.net/web-security) - Free, online web security training from the creators of Burp Suite. Learn with free interactive labs and progress-tracking.
-- [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo) - A free open-source self-contained training environment for Web Application Security penetration testing.
-- [Wishtackt's Websheep](https://github.com/wishtack/wishtack-websheep) - Websheep is a willingly vulnerable set of frontend JavaScript applications and ReSTful APIs.
-- [XVWA](https://github.com/s4n7h0/xvwa) - A badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
+- [DVWA](https://github.com/digininja/DVWA) - A PHP/MariaDB web application that is intentionally vulnerable, designed to help users test their skills and tools while enabling web developers to better understand how to secure web applications.
+- [Hacksplaining](https://www.hacksplaining.com/) - A platform to learn about major vulnerabilities affecting the technology stack and to practice hacking real vulnerable applications to understand how attacks work.
+- [OWASP Mutilliadae II](https://github.com/webpwnized/mutillidae) - An open-source web application intentionally designed with vulnerabilities for educational and security testing purposes. 
+- [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - A highly configurable web application security training platform that can be used by a single local user, in a competitive classroom environment, or in an online hacking competition.
+- [Samurai Web Training Framework](https://github.com/SamuraiWTF/samuraiwtf) - A framework designed for quickly configuring training virtual machines with tools and vulnerable application targets.
+- [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - A website designed for those interested in web penetration testing, featuring challenges such as command execution, file inclusion, file upload, SQL injection, and XSS. 
+- [WebGoat](https://github.com/WebGoat/WebGoat) - A project maintained by OWASP designed to teach web application security lessons and demonstrate of common server-side application flaws.
+- [Web Security Academy](https://portswigger.net/web-security) - ree online web security training from the creators of Burp Suite, featuring interactive labs and progress tracking.
+- [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo) - A open-source self-contained training environment for Web Application Security penetration testing.
+- [XVWA](https://github.com/s4n7h0/xvwa) - A web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 
 ## Learning resources
 
