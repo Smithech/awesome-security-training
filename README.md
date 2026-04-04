@@ -124,7 +124,7 @@
 - [Samurai Web Training Framework](https://github.com/SamuraiWTF/samuraiwtf) - A framework designed for quickly configuring training virtual machines with tools and vulnerable application targets.
 - [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - A website designed for those interested in web penetration testing, featuring challenges such as command execution, file inclusion, file upload, SQL injection, and XSS. 
 - [WebGoat](https://github.com/WebGoat/WebGoat) - A project maintained by OWASP designed to teach web application security lessons and demonstrate of common server-side application flaws.
-- [Web Security Academy](https://portswigger.net/web-security) - ree online web security training from the creators of Burp Suite, featuring interactive labs and progress tracking.
+- [Web Security Academy](https://portswigger.net/web-security) - Free online web security training from the creators of Burp Suite, featuring interactive labs and progress tracking.
 - [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo) - A open-source self-contained training environment for Web Application Security penetration testing.
 - [XVWA](https://github.com/s4n7h0/xvwa) - A web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 
