@@ -35,6 +35,8 @@
 
 ## Blue Team and DFIR
 
+- [InfoSecLabs](https://infoseclabs.io/) - Hands-on SOC analyst training platform with real-world breach investigations, 108+ CTF challenges across 8 categories, enterprise SOC tools (Splunk, Wazuh, CrowdStrike), and AI-driven mentorship.
+
 - [Blue Team Labs by Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) - Put your knowledge into practice with gamified cyber security challenges.
 - [LetsDefend](https://app.letsdefend.io/) - Hands-On Blue Team Training with hands-on experience by investigating real cyber attacks inside a simulated SOC.
 - [Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/) - This portal is your gateway to documented digital forensic image datasets.  
