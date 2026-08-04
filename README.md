@@ -129,6 +129,7 @@
 - [OWASP Mutilliadae II](https://github.com/webpwnized/mutillidae) - An open-source web application intentionally designed with vulnerabilities for educational and security testing purposes. 
 - [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) - A highly configurable web application security training platform that can be used by a single local user, in a competitive classroom environment, or in an online hacking competition.
 - [Samurai Web Training Framework](https://github.com/SamuraiWTF/samuraiwtf) - A framework designed for quickly configuring training virtual machines with tools and vulnerable application targets.
+- [Vulnerable Bank Application](https://github.com/Commando-X/vuln-bank) - A vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. 
 - [Vulnerable Web Application](https://github.com/OWASP/Vulnerable-Web-Application) - A website designed for those interested in web penetration testing, featuring challenges such as command execution, file inclusion, file upload, SQL injection, and XSS. 
 - [WebGoat](https://github.com/WebGoat/WebGoat) - A project maintained by OWASP designed to teach web application security lessons and demonstrate of common server-side application flaws.
 - [Web Security Academy](https://portswigger.net/web-security) - Free online web security training from the creators of Burp Suite, featuring interactive labs and progress tracking.
