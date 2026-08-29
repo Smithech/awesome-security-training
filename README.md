@@ -94,7 +94,8 @@
 - [Hackviser](https://hackviser.com/) - A cybersecurity upskilling platform with training, scenarios, labs, and warm-ups.
 - [Newbie Contest](https://www.newbiecontest.org/) - Tailored cybersecurity upskilling platform for all levels.
 - [Over The Wire](https://overthewire.org/wargames/) - The wargames can help you to learn and practice security concepts.
-- [PentesterLab](https://pentesterlab.com/) - Platform for learning and help level up skill on Web Hacking. 
+- [PentesterLab](https://pentesterlab.com/) - Platform for learning and help level up skill on Web Hacking.
+- [RansomLeak](https://ransomleak.com/catalogue/application-security/) - Interactive browser-based platform covering Application Security, API Security, Cloud Security, Git Security, and AI Security with hands-on labs based on OWASP Top 10. 
 - [Pwnable.kr](http://pwnable.kr/) - Provides various pwn challenges regarding system exploitation. You need some skills regarding programming, reverse-engineering, bug exploitation, system knowledge, cryptography.
 - [Pwnable.tw](https://pwnable.tw/) - Wargame site to test and expand binary exploitation skills.
 - [Research Labs](https://researchlabs.tech/) - A technical platform dedicated for learning and practicing technological research.
